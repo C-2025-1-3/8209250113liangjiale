@@ -1,0 +1,9 @@
+﻿  1.cpp
+D:\c++\Project2\Project2\1.cpp(9,6): error C2374: “i”: 重定义；多次初始化
+      D:\c++\Project2\Project2\1.cpp(7,6):
+      参见“i”的声明
+  
+D:\c++\Project2\Project2\1.cpp(9,6): error C2086: “int i”: 重定义
+      D:\c++\Project2\Project2\1.cpp(7,6):
+      参见“i”的声明
+  
